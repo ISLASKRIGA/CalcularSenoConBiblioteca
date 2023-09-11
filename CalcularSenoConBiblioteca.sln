@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularSenoConBiblioteca", "CalcularSenoConBiblioteca.csproj", "{63924BDB-C721-47F6-849D-7734430DF9B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrarySeno", "ClassLibrarySeno\ClassLibrarySeno.csproj", "{0BB0468F-9D75-4D4A-9F6D-5B467ADA4E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63924BDB-C721-47F6-849D-7734430DF9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63924BDB-C721-47F6-849D-7734430DF9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63924BDB-C721-47F6-849D-7734430DF9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63924BDB-C721-47F6-849D-7734430DF9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB0468F-9D75-4D4A-9F6D-5B467ADA4E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB0468F-9D75-4D4A-9F6D-5B467ADA4E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB0468F-9D75-4D4A-9F6D-5B467ADA4E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB0468F-9D75-4D4A-9F6D-5B467ADA4E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A19F05B7-4FCC-4359-9792-B9FDAB287058}
+	EndGlobalSection
+EndGlobal
